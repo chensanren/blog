@@ -10,3 +10,5 @@
    [past 5 years summary](past-summary.md)
 ## Future Goals
    [future 2 years goals](future-goals.md)
+## Future Goals
+   [how to make job work well](job-improment.md)
